@@ -1,0 +1,68 @@
+{
+   "products": [
+      {
+         "id": 1,
+         "name": "Iphone 12 Pro",
+         "desc": "Apple iphone 12th Generation",
+         "price": 999,
+         "color": "#33505a",
+         "image": "https://m.media-amazon.com/images/I/71MHTD3uL4L.jpg"
+      },
+      {
+         "id": 2,
+         "name": "Pixel 5",
+         "desc": "Google Pixel Phone 5th generation",
+         "price": 699,
+         "color": "#00ac51",
+         "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-5-5g.jpg"
+      },
+      {
+         "id": 3,
+         "name": "M1 Macboook Air ",
+         "desc": "Apple Macbook air with apple sillicon",
+         "price": 1099,
+         "color": "#e0bfae",
+         "image": "https://i.gadgets360cdn.com/products/large/macbook-air-m1-2020-db-800x600-1607604365.png"
+      },
+      {
+         "id": 4,
+         "name": "Playtation 5",
+         "desc": "Sony Playstation 5th generation",
+         "price": 500,
+         "color": "#544ee4",
+         "image": "https://letstalkstores.com/wp-content/uploads/2021/01/ps5-credit-sie@2000x1270.jpg"
+      },
+      {
+         "id": 5,
+         "name": "Airpods Pro",
+         "desc": "Apple iphone 12th Generation",
+         "price": 200,
+         "color": "#e3e4e9",
+         "image": "https://www.mytrendyphone.eu/images/Original-Apple-AirPods-Pro-with-ANC-MWP22ZM-A-White-0190199247000-30102019-01-p.jpg"
+      },
+      {
+         "id": 6,
+         "name": "ipad  Pro",
+         "desc": "Apple Ipad Pro 2020 Generation",
+         "price": 799,
+         "color": "#f73984",
+         "image": "https://www.apple.com/newsroom/images/product/ipad/standard/apple_ipad-pro-spring21_hero_04202021_big.jpg.large.jpg"
+      },
+      {
+         "id": 7,
+         "name": "Galaxy S21 ultra",
+         "desc": " Samsung Galaxy S21 ultra ultra 2021 eidition",
+         "price": 1299,
+         "color": "#1c1c1c",
+         "image": "https://images.samsung.com/pk/smartphones/galaxy-s21/buy/s21_family_kv_mo_img.jpg"
+      },
+      {
+         "id": 8,
+         "name": "Galaxy S21",
+         "desc": "Samsung Galaxy s21 2021 edition",
+         "price": 899,
+         "color": "#7c95eb",
+         "image": "https://www.mytrendyphone.eu/images/Samsung-Galaxy-S21-5G-128GB-Phantom-Grey-8806090892776-18012021-01-p.jpg"
+      }
+   ]
+}
